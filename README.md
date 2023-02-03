@@ -1,6 +1,6 @@
-![](https://www.viola-group.com/wp-content/uploads/2017/10/personetics-logo-transparent-bg-300x145.png)
-
----
+<p align="center">
+  <img src="https://www.viola-group.com/wp-content/uploads/2017/10/personetics-logo-transparent-bg-300x145.png" />
+</p>
 
 # Chain Validator
 
